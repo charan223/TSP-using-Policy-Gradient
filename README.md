@@ -11,11 +11,13 @@ To entropy regularization experiments,
 ```python Entropy_Reinforce.py```
 
 To run using 2-opt heuristic baseline,
+
 ```python Heuristic_Reinforce.py```
 
 ## Plots
 
 To make plots from rewards run,
+
 ```python plots/plot_graph.py```
 
 ![](plots/plot_entropy_20.png)
