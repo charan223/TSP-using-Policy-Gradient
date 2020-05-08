@@ -19,9 +19,11 @@ To make plots from rewards run,
 ```python plots/plot_graph.py```
 
 ![](plots/plot_entropy_20.png)
+
 Reward graph for entropy regularization TSP20 experiment
 
 ![](plots/plot_heuristic_20.png)
+
 Reward graph for heuristic baseline TSP20 experiment
 
 
