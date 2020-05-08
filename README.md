@@ -6,11 +6,11 @@ To run TSP using policy gradient,
 
 ```python Neural_Reinforce.py```
 
-To entropy regularization experiments,
+To run our entropy regularization experiments,
 
 ```python Entropy_Reinforce.py```
 
-To run using 2-opt heuristic baseline,
+To run our 2-opt heuristic baseline experiment,
 
 ```python Heuristic_Reinforce.py```
 
