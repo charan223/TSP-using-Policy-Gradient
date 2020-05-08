@@ -1,6 +1,6 @@
 # TSP-using-Policy-Gradient
 
-## Instructions to run:
+## Instructions to run
 
 To run TSP using policy gradient,
 
@@ -12,6 +12,12 @@ To entropy regularization experiments,
 
 To run using 2-opt heuristic baseline,
 ```python Heuristic_Reinforce.py```
+
+## Plots
+
+![Reward graph for entropy regularization TSP20 experiment](plots/plot_entropy_20.png)
+
+![Reward graph for heuristic baseline TSP20 experiment](plots/plot_heuristic_20.png)
 
 
 
